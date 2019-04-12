@@ -1,11 +1,16 @@
 _repo: Legendary-Tales-of-the-Highlands-Volume-3-of-3-A-sequel-to-Highland-Rambles_59202
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59202-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Lauder, Thomas Dick
     gutenberg_agent_id: '50104'
     url: http://www.gutenberg.org/2009/agents/50104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59202#Legendary-Tales-of-the-Highlands-Volume-3-of-3-A-sequel-to-Highland-Rambles
 gutenberg_issued: '2019-04-03'
 gutenberg_type: Text
 identifiers:
